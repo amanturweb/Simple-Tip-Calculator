@@ -1,3 +1,3 @@
-# Simple-Tip-Calculator
+# Tip-Calculator
 
 ![view](./images/website.png)
